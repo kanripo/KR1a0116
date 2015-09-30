@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 日講易經解義
-#+DATE: 2015-09-23 09:35:20
-#+PROPERTY: JUAN 18
+#+DATE: 2015-08-24 21:58:30.626039
+#+PROPERTY: ID KR1a0116
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR1a0116_WYG_018-1a>¶
 　欽定四庫全書¶
 日講易經解義卷十八¶
@@ -902,4 +904,3 @@
 　¶
 　¶
 日講易經解義卷十八¶
-
